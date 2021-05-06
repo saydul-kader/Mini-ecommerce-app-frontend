@@ -14,7 +14,7 @@ const Navbar = ({ click }) => {
   return (
     <nav className="navbar">
       <div className="navbar__logo">
-        <img src={Logo} />
+        <img src={Logo} alt="logo" />
       </div>
 
       <ul className="navbar__links">
